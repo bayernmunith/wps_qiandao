@@ -188,9 +188,7 @@ if __name__ == "__main__":
     qiandao_msg = []
     token = ""
     #签到字典{"备注":"wps_sid"}
-    sid_list = {
-        "备注":"wps_sid",#有几个写几个一行一个
-    }
+    sid_list = {V02SzxyesRUt4vsW0iQW5xKaWTPaXrc00a2416e7001b8fad1f }
     #遍历sid，签到
     for name in sid_list:
         sid=sid_list[name]
